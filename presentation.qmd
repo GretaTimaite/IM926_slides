@@ -7,11 +7,15 @@ format: revealjs
 
 Consider a particular **method** or particular methodological approach that you would use for a doctoral research project (e.g. questionnaire, interview, observation, focus group, secondary data analysis). **Explain** the **principles** on which you would design your ‘instrument’ and the **opportunities** and **problems** you foresee and/or might experience.
 
+## Topic
+
+![](images/summary.png)
+
 ## Research question 
 
 :::{.incremental}
 
-- Which types of experts today make knowledge claims about social aspects of AI across the sciences, engineering, social science and humanities? 
+- **Which types of experts today make knowledge claims about social aspects of AI across the sciences, engineering, social science and humanities?**
 
 - How is epistemic relevance and authority established in the AI research field? 
 
@@ -25,6 +29,7 @@ Formal academic communication:
 
 - academic journals
 - conference proceedings
+- archives
 - ...
 
 ## Scientometrics
@@ -53,7 +58,8 @@ Formal academic communication:
 
 **Making sense:**
 
-- following edges
+- network analysis
+  - nodes and edges
 - tables not as useful anymore
 
 ##
@@ -67,10 +73,11 @@ Formal academic communication:
 ## 
 
 - relational data exploration 
-  - mapping and spatialisation (force-directed layouts)
+  - mapping and spatialisation (force-directed layouts?)
 - community detection (non/algorithmic)
-- Interpretative turn?
-- quant + qual?
+- Interpretative turn in network science?
+  - from positivism to interpretivism
+  - quant + qual?
 
 ## Algortihms and software
 
@@ -78,6 +85,7 @@ Formal academic communication:
   - degree of control and unboxing the "black box"
       - open source
   - degree of reproducibility
+  - ethics
 - Different spatialisation algorithms in different tools
   - how does it shape the understanding of a network?
 - community detection 
