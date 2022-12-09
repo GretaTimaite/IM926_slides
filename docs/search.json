@@ -7,6 +7,13 @@
     "text": "Method\nConsider a particular method or particular methodological approach that you would use for a doctoral research project (e.g. questionnaire, interview, observation, focus group, secondary data analysis). Explain the principles on which you would design your ‘instrument’ and the opportunities and problems you foresee and/or might experience."
   },
   {
+    "objectID": "presentation.html#topic",
+    "href": "presentation.html#topic",
+    "title": "IM926",
+    "section": "Topic",
+    "text": "Topic"
+  },
+  {
     "objectID": "presentation.html#research-question",
     "href": "presentation.html#research-question",
     "title": "IM926",
@@ -18,7 +25,7 @@
     "href": "presentation.html#focus",
     "title": "IM926",
     "section": "Focus",
-    "text": "Focus\nFormal academic communication:\n\nacademic journals\nconference proceedings\n…"
+    "text": "Focus\nFormal academic communication:\n\nacademic journals\nconference proceedings\narchives\n…"
   },
   {
     "objectID": "presentation.html#scientometrics",
@@ -46,7 +53,7 @@
     "href": "presentation.html#section",
     "title": "IM926",
     "section": "",
-    "text": "Making sense:\n\nfollowing edges\ntables not as useful anymore"
+    "text": "Making sense:\n\nnetwork analysis\n\nnodes and edges\n\ntables not as useful anymore"
   },
   {
     "objectID": "presentation.html#section-1",
@@ -67,14 +74,14 @@
     "href": "presentation.html#section-2",
     "title": "IM926",
     "section": "",
-    "text": "relational data exploration\n\nmapping and spatialisation (force-directed layouts)\n\ncommunity detection (non/algorithmic)\nInterpretative turn?\nquant + qual?"
+    "text": "relational data exploration\n\nmapping and spatialisation (force-directed layouts?)\n\ncommunity detection (non/algorithmic)\nInterpretative turn in network science?\n\nfrom positivism to interpretivism\nquant + qual?"
   },
   {
     "objectID": "presentation.html#algortihms-and-software",
     "href": "presentation.html#algortihms-and-software",
     "title": "IM926",
     "section": "Algortihms and software",
-    "text": "Algortihms and software\n\nGephi, VosViewer, Python, R\n\ndegree of control and unboxing the “black box”\n\nopen source\n\ndegree of reproducibility\n\nDifferent spatialisation algorithms in different tools\n\nhow does it shape the understanding of a network?\n\ncommunity detection\nvisualisation design\n\nstatic/interactive"
+    "text": "Algortihms and software\n\nGephi, VosViewer, Python, R\n\ndegree of control and unboxing the “black box”\n\nopen source\n\ndegree of reproducibility\nethics + reflexivity\n\nDifferent spatialisation algorithms in different tools\n\nhow does it shape the understanding of a network?\n\ncommunity detection\nvisualisation design\n\nstatic/interactive"
   },
   {
     "objectID": "presentation.html#section-3",
@@ -96,5 +103,12 @@
     "title": "IM926",
     "section": "",
     "text": "Vosviewer, own"
+  },
+  {
+    "objectID": "presentation.html#major-issue-points",
+    "href": "presentation.html#major-issue-points",
+    "title": "IM926",
+    "section": "Major issue points",
+    "text": "Major issue points\nWhat exactly is a method in my case?\n\nnetwork?\n\n“networks as method rather than as veracious representation of the structure of social life” (Decuypere 2020: 80)\n\nco-citation/bibliometric/direct analysis\nVNA\n\nCan they be discussed in isolation?"
   }
 ]
