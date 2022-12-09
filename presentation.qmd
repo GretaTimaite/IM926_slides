@@ -85,7 +85,7 @@ Formal academic communication:
   - degree of control and unboxing the "black box"
       - open source
   - degree of reproducibility
-  - ethics
+  - ethics + reflexivity
 - Different spatialisation algorithms in different tools
   - how does it shape the understanding of a network?
 - community detection 
@@ -107,7 +107,16 @@ Formal academic communication:
 
 ![Vosviewer, own](images/messy_network.png)
 
+## Major issue points
 
+What exactly is a method in my case?
+
+- network? 
+  - "networks as method rather than as veracious representation of the structure of social life" (Decuypere 2020: 80)
+- co-citation/bibliometric/direct analysis
+- VNA
+
+Can they be discussed in isolation?
 
 
 
